@@ -12,7 +12,7 @@ public class Trik {
         Scanner sc = new Scanner(System.in);
         char[] input = sc.nextLine().toCharArray();
         int ans = 1;
-        
+
         // Loop through all the commands and update the answer at every iteration;
         // Do nothing if the ball is not in one of the moved cups.
         for (int i = 0; i < input.length; i++) {
