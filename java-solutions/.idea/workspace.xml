@@ -35,11 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EasiestProbemIsThisOne.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EasiestProbemIsThisOne.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EasiestProbemIsThisOne.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GuessTheDatastructure.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GuessTheDatastructure.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,6 +85,7 @@
         <option value="$PROJECT_DIR$/src/RotateArray.java" />
         <option value="$PROJECT_DIR$/src/Trik.java" />
         <option value="$PROJECT_DIR$/src/EasiestProbemIsThisOne.java" />
+        <option value="$PROJECT_DIR$/src/GuessTheDatastructure.java" />
       </list>
     </option>
   </component>
@@ -243,12 +254,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569797036273</updated>
-      <workItem from="1569797038183" duration="975000" />
+      <workItem from="1569797038183" duration="2455000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="975000" />
+    <option name="totallyTimeSpent" value="2455000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="13" y="30" width="1542" height="884" extended-state="0" />
@@ -313,6 +324,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GuessTheDatastructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding />
         </state>
       </provider>
