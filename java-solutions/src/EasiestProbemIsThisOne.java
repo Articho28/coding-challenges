@@ -26,6 +26,7 @@ public class EasiestProbemIsThisOne {
             }
 
         }
+        sc.close();
 
 
     }

@@ -5,6 +5,12 @@ import java.util.Queue;
 import java.util.Stack;
 import java.util.Scanner;
 
+/**
+ * Problem found on Kattis:
+ * https://open.kattis.com/problems/guessthedatastructure 
+ */
+
+
 public class GuessTheDatastructure {
 
     public static void main(String[] args) {
@@ -15,9 +21,9 @@ public class GuessTheDatastructure {
             int n = Integer.parseInt(input);
 
             //Initialize data structures
-            Stack stack = new Stack<Integer>();
-            Queue queue = new LinkedList<Integer>();
-            PriorityQueue pq = new PriorityQueue<Integer>(1000, Collections.reverseOrder());
+            Stack<Integer> stack = new Stack<Integer>();
+            Queue<Integer> queue = new LinkedList<Integer>();
+            PriorityQueue<Integer> pq = new PriorityQueue<Integer>(1000, Collections.reverseOrder());
             boolean isStack = true;
             boolean isQueue = true;
             boolean isPQ = true;
@@ -71,5 +77,6 @@ public class GuessTheDatastructure {
                 System.out.println("not sure");
             }
         }
+        sc.close();
     }
 }

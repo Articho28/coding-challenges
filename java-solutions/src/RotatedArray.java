@@ -1,7 +1,5 @@
-
-
-public class RotateArray {
-
+public class RotatedArray {
+    
     /**
      * Rotates array by k steps.
      * Question asked here: https://leetcode.com/problems/rotate-array/

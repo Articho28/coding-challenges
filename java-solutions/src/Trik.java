@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 /**
- * Solution to Trik problem on Kattis
- * Problem found on: https://open.kattis.com/problems/trik
+ * Solution to Trik problem on Kattis Problem found on:
+ * https://open.kattis.com/problems/trik
  */
 public class Trik {
 
@@ -37,5 +37,6 @@ public class Trik {
             }
         }
         System.out.println(ans);
+        sc.close();
     }
 }
