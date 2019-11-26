@@ -1,2 +1,3 @@
 .DS_Store
-.vscodd
+.vscode
+*.class
