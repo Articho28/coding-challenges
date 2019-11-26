@@ -1,4 +1,4 @@
-public class RotatedArray {
+public class Solution {
     
     /**
      * Rotates array by k steps.
